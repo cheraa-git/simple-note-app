@@ -4,7 +4,8 @@
   "description": "this is simple NodeJs Application",
   "main": "arcive/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "serve": "nodemon index.js"
   },
   "keywords": [
     "node",
@@ -17,6 +18,7 @@
     "yargs": "^17.7.2"
   },
   "devDependencies": {
-    "@types/yargs": "^17.0.24"
+    "@types/yargs": "^17.0.24",
+    "nodemon": "^2.0.22"
   }
 }

@@ -1,1 +1,18 @@
-[{"title":"Hello","id":"1688825380499"},{"title":"fromConsole","id":"1688825410736"}]
+[
+  {
+    "title": "Hello",
+    "id": "1688825380499"
+  },
+  {
+    "title": "fromConsole",
+    "id": "1688825410736"
+  },
+  {
+    "title": "This note is from browser",
+    "id": "1688843954020"
+  },
+  {
+    "title": "work work work",
+    "id": "1688844132663"
+  }
+]
