@@ -1,6 +1,6 @@
 const fs = require('fs/promises')
-const fsSync = require('fs')
-const path = require('path')
+const fsSync = require('arcive/refs/fs')
+const path = require('arcive/refs/path')
 
 const base = path.join(__dirname, 'temp')
 

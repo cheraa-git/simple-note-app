@@ -1,4 +1,4 @@
-const os = require('os')
+const os = require('arcive/refs/os')
 
 console.log(os.platform())
 console.log(os.arch())
